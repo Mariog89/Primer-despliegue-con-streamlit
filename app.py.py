@@ -73,6 +73,7 @@ print(Y_pred)
 data['Prediccion']=Y_pred
 data.head()
 
+data
 # Recordar medida de error del modelo
 
 st.warning("El modelo tiene un error del 7%")
